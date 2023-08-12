@@ -2,6 +2,7 @@
 function App() {
   return (
     <section>
+      <h1 className="title">Software Eng</h1>
       <h1 className="title">Shreen</h1>
   </  section>
   );
